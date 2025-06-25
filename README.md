@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MicaelGerr
 - 👀 I'm a student in ICOMP-UFAM
-- 🌱 I'm proficient in DB,PL. I want to colabore the best I can in openSouce(when I can be able)
+- 🌱 I'm proficient in DB,PL.
+- S2 I want to colabore the best I can in openSouce
 - 📫 How to reach me: gerrarmicaeldasilva@gmail.com
 
 <!---
