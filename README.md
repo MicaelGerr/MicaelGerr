@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicaelGerr
-- 👀 I’m interested in backend area
-- 🌱 I’m currently learning java, node.js
+- 👀 I'm a student in ICOMP-UFAM
+- 🌱 I'm proficient in DB,PL. I want to colabore the best I can in openSouce(when I can be able)
 - 📫 How to reach me: gerrarmicaeldasilva@gmail.com
 
 <!---
